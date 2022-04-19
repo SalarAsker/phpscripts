@@ -1,0 +1,32 @@
+*{
+   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.alert-success{
+    
+    width: 400px;
+    padding: 50px;
+    background-color: lightyellow;
+    color: black;
+    margin: 0 auto;
+    font-size: 2.5em;
+}
+.add-links{
+    text-decoration: none;
+    font-size: 1.5em;
+    display: block;
+    width: 400px;
+    background-color: lightblue;
+    text-align: center;
+    color: black;
+    border-radius: 25px;
+    margin: 0 auto;
+
+}
+
+div{
+    margin-top: 25px;
+}

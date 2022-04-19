@@ -27,7 +27,7 @@
             <label for="email" class="control-label">
                 Email
             </label>
-            <input type="text" id="email" name="emmail">
+            <input type="text" id="email" name="email">
         </div>
 
         <input type="submit" value="Lägg till" name="register" class="btn-register">
